@@ -36,7 +36,7 @@ https://github.com/netology-code/sys-pattern-homework/commit/ef90b580b71d7c260b4
 
 ### Задание 3
 
-https://github.com/VasiliCH777/8-03-hw/compare/netology-code:sys-pattern-homework:main...main
+https://github.com/VasiliCH777/8-03-hw/network
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
